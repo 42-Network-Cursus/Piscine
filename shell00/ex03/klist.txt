@@ -1,0 +1,5 @@
+Credentials cache: API:F337DF6C-D4A9-4536-B94F-0EEF0850EB61
+        Principal: cwastche@S19.BE
+
+  Issued                Expires               Principal
+Mar  1 16:42:21 2021  Mar  2 02:42:15 2021  krbtgt/S19.BE@S19.BE
